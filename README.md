@@ -31,8 +31,9 @@ This project implements a real-time car counting system using the YOLOv8 object 
 ## Usage
 
 1. **Video file:**
-
-  There is already a video placed in the `Videos` directory. However, update the directory with new video you would like to test; would require changing the line coordinates and the mask.png to get the desired results.
+   
+   There is already a video placed in the `Videos` directory. However, update the directory with new video you would like to test; would require changing the line coordinates and the
+   mask.png to get the desired results.
 
 2. **Run the car counter:**
 
