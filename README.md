@@ -30,9 +30,9 @@ This project implements a real-time car counting system using the YOLOv8 object 
 
 ## Usage
 
-1. **Prepare your video file:**
+1. **Video file:**
 
-   Ensure your input video is placed in the `input/` directory. Update the `video_path` variable in the script with the path to your video file.
+  There is already a video placed in the `Videos` directory. However, update the directory with new video you would like to test; would require changing the line coordinates and the mask.png to get the desired results.
 
 2. **Run the car counter:**
 
